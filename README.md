@@ -1,3 +1,4 @@
 - currently learning Vue.js, Mysql, Go
 - I’m looking to collaborate on AI projects and interesting small projects
 - 📫 How to reach me : lvdi@cqu.edu.cn
+- My homepage: ldsite.top
