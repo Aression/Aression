@@ -1,6 +1,6 @@
 # Hi there!
-- I am currently working on a more efficient design model for neural networks and the offline deployment of deep learning models on mobile devices.
-- If you have any question about my projects, please concact me via this: ldfine@gmail.com
-- You are also welcomed to visit my homepage: https://aression.github.io/
+- I am currently working on automatic cervial cell detection systems and cross-modal object detection.
+- If you have any question about my projects, feel free to concact me at: lvdifine@gmail.com
+- You are also welcomed to visit my homepage: https://ldefine.top/
 
 # Have fun XD
