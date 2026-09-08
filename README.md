@@ -1,6 +1,6 @@
 # Hi there!
-- I am currently working on automatic cervial cell detection systems and cross-modal object detection.
+- I am currently working on Agentic RL and Post Training for LLMs.
 - If you have any question about my projects, feel free to concact me at: lvdifine@gmail.com
-- You are also welcomed to visit my homepage: https://ldefine.top/
+- You are also welcomed to visit my homepage: h[ttps://ldefine.top/](https://lvdi-profile.vercel.app/)
 
 # Have fun XD
